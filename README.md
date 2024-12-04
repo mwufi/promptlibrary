@@ -1,7 +1,7 @@
 # 💅 Prompt Library fr fr
 
 <div align="center">
-  <img src="https://cdn.midjourney.com/8a2bcc68-a9f8-41e5-8a69-d32c2680944d/0_3.png" width="300" alt="SPEED">
+  <img src="jesse.png" width="300" alt="SPEED">
   <p><i>no cap, we stay winning</i></p>
 </div>
 
